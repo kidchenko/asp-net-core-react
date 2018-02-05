@@ -1,0 +1,10 @@
+C:\kidchenko\asp-net-core-react\EmptyWeb\bin\Debug\netcoreapp2.0\EmptyWeb.deps.json
+C:\kidchenko\asp-net-core-react\EmptyWeb\bin\Debug\netcoreapp2.0\EmptyWeb.runtimeconfig.json
+C:\kidchenko\asp-net-core-react\EmptyWeb\bin\Debug\netcoreapp2.0\EmptyWeb.runtimeconfig.dev.json
+C:\kidchenko\asp-net-core-react\EmptyWeb\bin\Debug\netcoreapp2.0\EmptyWeb.dll
+C:\kidchenko\asp-net-core-react\EmptyWeb\bin\Debug\netcoreapp2.0\EmptyWeb.pdb
+C:\kidchenko\asp-net-core-react\EmptyWeb\obj\Debug\netcoreapp2.0\EmptyWeb.csproj.CoreCompileInputs.cache
+C:\kidchenko\asp-net-core-react\EmptyWeb\obj\Debug\netcoreapp2.0\EmptyWeb.AssemblyInfoInputs.cache
+C:\kidchenko\asp-net-core-react\EmptyWeb\obj\Debug\netcoreapp2.0\EmptyWeb.AssemblyInfo.cs
+C:\kidchenko\asp-net-core-react\EmptyWeb\obj\Debug\netcoreapp2.0\EmptyWeb.dll
+C:\kidchenko\asp-net-core-react\EmptyWeb\obj\Debug\netcoreapp2.0\EmptyWeb.pdb
