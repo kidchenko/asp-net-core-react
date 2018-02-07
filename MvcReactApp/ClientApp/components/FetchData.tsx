@@ -43,8 +43,8 @@ export class FetchData extends React.Component<RouteComponentProps<{}>, FetchDat
             </thead>
             <tbody>
             {forecasts.map(forecast =>
-                <tr key={ forecast.dateFormatted }>
-                    <td>{ forecast.dateFormatted }</td>
+                <tr key={ forecast.dateFormatted } >
+                    <td>{ forecast.dateFormatted } <span>sda</span></td>
                     <td>{ forecast.temperatureC }</td>
                     <td>{ forecast.temperatureF }</td>
                     <td>{ forecast.summary }</td>
